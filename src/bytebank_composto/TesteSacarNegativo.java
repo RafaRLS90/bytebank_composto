@@ -7,6 +7,6 @@ public class TesteSacarNegativo {
 		System.out.println(conta.sacar(101));
 
 		conta.sacar(101);
-		System.out.println(conta.pegaSaldo());
+		System.out.println(conta.getSaldo());
 	}
 }
